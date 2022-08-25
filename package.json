@@ -5,9 +5,10 @@
   "keywords": [],
   "main": "src/index.js",
   "dependencies": {
+    "node": "^16.17.0",
     "react": "16.8.6",
     "react-dom": "16.8.6",
-    "react-scripts": "3.2.0"
+    "react-scripts": "^5.0.1"
   },
   "devDependencies": {
     "typescript": "3.3.3"
